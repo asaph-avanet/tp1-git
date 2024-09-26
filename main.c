@@ -1,4 +1,4 @@
-#include <stdio>[D.h>
-int main() {[Dprintln("Hello world edited V2")[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Df[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C; 
+#include <stdio.h>
+int main() {printf("Hello world edited V2"); 
 return 0;
 }
